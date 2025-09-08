@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+- [ ] no
+- [x] yes 
